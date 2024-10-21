@@ -1,0 +1,45 @@
+#todo{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+#nav li{
+    list-style: none;
+    border-radius: 0;
+    padding: 15px 20px;
+
+}
+
+#nav a{
+    color: #ffffff;
+    display: inline-block;
+    padding: 6px 10px;
+    text-decoration: none;
+
+}
+
+#nav li:hover{
+    background-color: #3c4549;
+    border-radius: 20px;
+    transition: background-color 0.3, border-radius 0.24s;
+    transform: scale(1.1);
+}   
+
+.container{
+    margin: 0%;
+}
+
+li img{
+    width: 30px;
+    height: 30px;
+}   
+
+p{
+    color: aliceblue;
+}
+
+#batman{
+    width: 90%;
+    height: 90%;
+}
